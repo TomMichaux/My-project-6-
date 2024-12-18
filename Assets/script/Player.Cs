@@ -62,5 +62,7 @@ public class Player : MonoBehaviour
 
         SceneManager.LoadScene("Kuru Menu");
         transform.position = Vector3.zero;
+
+        //BREAD
     }
 }
